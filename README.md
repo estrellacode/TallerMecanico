@@ -55,7 +55,9 @@ Durante el desarrollo se realizaron pruebas enfocadas en garantizar la correcta 
 
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/3c35b8f7-a909-4cda-ac53-c2a204168a62" />
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/eb74e8fd-5c07-4741-aead-bd194b5dc5c3" />
-![WhatsApp Image 2026-04-01 at 2 48 42 PM](https://github.com/user-attachments/assets/a2202ba8-3904-40ab-9e58-cdffae701a93)
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/f5b3904d-6e27-4c25-8770-1cef6acfb211" />
+
+
 
 
 
